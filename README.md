@@ -32,9 +32,9 @@
 ###
 
 <p align="left">A Teacher Room Booking System built with Spring Boot 🖥️, React ⚛️, RESTful APIs 🌐, and MySQL.<br>  
-  - Led a team of 4 developers, improving resource allocation efficiency by 40%.  
-  - Handled 50+ bookings per week 📅.  
-  - Designed a scalable backend with Spring JPA and a normalized database to ensure efficient query response times under 200ms.  
+  - Led a team of 4 developers, improving resource allocation efficiency by 40%.<br>
+  - Handled 50+ bookings per week 📅.  <br>
+  - Designed a scalable backend with Spring JPA and a normalized database to ensure efficient query response times under 200ms.  <br>
   - Ensured 90% code coverage ✅ and 95% bug resolution 🐛.</p>
 
 ###
@@ -44,8 +44,8 @@
 ###
 
 <p align="left">A Raspberry Pi-based solution using YOLO 🧠, MPU, and Python to monitor road quality.<br>  
-  - Created a custom dataset with 5,000+ annotated images to detect road defects with 92% accuracy 📊.  
-  - The project uses sensors to gather data across 100 km 🛣️ of roads.  
+  - Created a custom dataset with 5,000+ annotated images to detect road defects with 92% accuracy 📊.  <br>
+  - The project uses sensors to gather data across 100 km 🛣️ of roads.  <br>
   - Insights are visualized using Pandas 🐼, NumPy 🔢, and Matplotlib 📈 for city planners.</p>
 
 ###
@@ -55,19 +55,19 @@
 ###
 
 <p align="left">A full-stack pizza delivery application 🍕 with Spring Boot, React, and Stripe API.<br>  
-  - Expected to handle 400+ daily orders 📦.  
-  - Improving order accuracy by 20% through automation.  
+  - Expected to handle 400+ daily orders 📦.  <br>
+  - Improving order accuracy by 20% through automation.  <br>
   - Includes real-time order tracking 🕒, reducing customer support tickets by 25% 📉 and enhancing customer retention by 15% ❤️.</p>
 
 ###
 
-<h2 align="left"><a href="https://github.com/Anurag3703/the_Archive" target="_blank">🛡️ AI Scam Detection System</a></h2>
+<h2 align="left"><a href="https://github.com/Anurag3703/the_Archive" target="_blank">🛡️ AI Scam Detection System(Startup)</a></h2>
 
 ###
 
 <p align="left">An AI-powered Scam Detection System in collaboration with the Hungarian National Innovation Agency 🇭🇺.<br>  
-  - Focused on detecting and preventing fraudulent activities in telecommunications.  
-  - Multilingual system to cater to telecom companies worldwide 🌐.  
+  - Focused on detecting and preventing fraudulent activities in telecommunications.  <br>
+  - Multilingual system to cater to telecom companies worldwide 🌐.  <br>
   - Aimed at reducing financial losses 💸 and improving customer security 🔐.</p>
 
 ###
@@ -87,7 +87,7 @@
 ###
 
 <p align="left">  
-  - Gained foundational knowledge of cloud services ☁️ on Microsoft Azure 🔵.  
+  - Gained foundational knowledge of cloud services ☁️ on Microsoft Azure 🔵.  <br>
   - Learned about core services 🔧, pricing models 💰, cloud security 🔒, and resource optimization 📈.
 </p>
 
@@ -98,7 +98,7 @@
 ###
 
 <p align="left">  
-  - Hands-on experience in Unity game development 🕹️.  
+  - Hands-on experience in Unity game development 🕹️.  <br>
   - Mastered core game design principles 🧩, scripting in C# ⚙️, and optimizing performance for smooth gameplay 🎯.  
 </p>
 
@@ -109,7 +109,7 @@
 ###
 
 <p align="left">  
-  - Completed the Hungarian Startup Program 🚀.  
+  - Completed the Hungarian Startup Program 🚀.  <br>
   - Gained skills in startup strategies, business development, and navigating the Hungarian innovation ecosystem 🌍.  
 </p>
 
