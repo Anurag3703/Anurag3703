@@ -88,7 +88,7 @@
 
 <p align="left">  
   - Gained foundational knowledge of cloud services ☁️ on Microsoft Azure 🔵.  <br>
-  - Learned about core services 🔧, pricing models 💰, cloud security 🔒, and resource optimization 📈.
+  - Learned about core services , pricing models 💰, cloud security 🔒, and resource optimization .
 </p>
 
 ###
@@ -99,7 +99,7 @@
 
 <p align="left">  
   - Hands-on experience in Unity game development 🕹️.  <br>
-  - Mastered core game design principles 🧩, scripting in C# ⚙️, and optimizing performance for smooth gameplay 🎯.  
+  - Mastered core game design principles 🧩, scripting in C# , and optimizing performance for smooth gameplay 🎯.  
 </p>
 
 ###
