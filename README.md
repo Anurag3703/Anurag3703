@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="left">Hi 👋! I'm Anurag Tiwari, a passionate Computer Science Engineering student at the University of Debrecen, Hungary 🇭🇺. I'm deeply involved in software development, exploring the intersection of cutting-edge technologies like Spring Boot, Vue, OpenCv, and Raspberry Pi.<br><br>On my GitHub, you'll find a variety of projects showcasing my skills in full-stack development, AI, and IoT. I love building scalable, efficient systems and solving real-world problems with innovative solutions. Whether it's building a pizza delivery app 🍕 or developing an AI-powered road monitoring system 🚗, I strive to make an impact.<br><br>Currently, I’m working with a startup under the Hungarian National Innovation Agency on an exciting project: an AI-powered Scam Detection System. I’m applying machine learning to combat digital fraud and help create safer online environments.<br><br>Take a look at my repositories to see how I approach challenges, write clean code, and collaborate with others in open-source. I'm always eager to learn, collaborate, and contribute to meaningful projects! ✨</h4>
+<p align="left">Hi 👋! I'm Anurag Tiwari, a passionate Computer Science Engineering student at the University of Debrecen, Hungary 🇭🇺. I'm deeply involved in software development, exploring the intersection of cutting-edge technologies like Spring Boot, Vue, OpenCv, and Raspberry Pi.<br><br>On my GitHub, you'll find a variety of projects showcasing my skills in full-stack development, AI, and IoT. I love building scalable, efficient systems and solving real-world problems with innovative solutions. Whether it's building a pizza delivery app 🍕 or developing an AI-powered road monitoring system 🚗, I strive to make an impact.<br><br>Currently, I’m working with a startup under the Hungarian National Innovation Agency on an exciting project: an AI-powered Scam Detection System. I’m applying machine learning to combat digital fraud and help create safer online environments.<br><br>Take a look at my repositories to see how I approach challenges, write clean code, and collaborate with others in open-source. I'm always eager to learn, collaborate, and contribute to meaningful projects! ✨</p>
 
 ###
 
@@ -15,9 +15,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Anurag3703/Anurag3703/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -31,35 +28,35 @@
 
 ###
 
-<h2 align="left">🛠️ TeachSpace</h2>
+<h2 align="left"><a href="https://github.com/abrarzihan1/room-selection-app" target="_blank">🛠️ TeachSpace</a></h2>
 
 ###
 
-<h4 align="left">A Teacher Room Booking System built with Spring Boot 🖥️, React ⚛️, RESTful APIs 🌐, and MySQL . <br>I led a team of 4 developers, improving resource allocation efficiency by 40% and handling 50+ bookings per week 📅. Designed a scalable backend with Spring JPA and a normalized database to ensure efficient query response times under 200ms. <br>You can explore the code and see how we ensured 90% code coverage ✅ and 95% bug resolution 🐛.<br>Repo: https://github.com/abrarzihan1/room-selection-app</h4>
+<p align="left">A Teacher Room Booking System built with Spring Boot 🖥️, React ⚛️, RESTful APIs 🌐, and MySQL . <br>I led a team of 4 developers, improving resource allocation efficiency by 40% and handling 50+ bookings per week 📅. Designed a scalable backend with Spring JPA and a normalized database to ensure efficient query response times under 200ms. <br>You can explore the code and see how we ensured 90% code coverage ✅ and 95% bug resolution 🐛.<br>Repo: <a href="https://github.com/abrarzihan1/room-selection-app" target="_blank">room-selection-app</a></p>
 
 ###
 
-<h2 align="left">🚗 Road Surface Monitoring System</h2>
+<h2 align="left"><a href="https://github.com/Anurag3703/autonom" target="_blank">🚗 Road Surface Monitoring System</a></h2>
 
 ###
 
-<h4 align="left">A Raspberry Pi-based solution using YOLO 🧠, MPU, and Python  to monitor road quality. <br>I created a custom dataset with 5,000+ annotated images  to detect road defects with 92% accuracy 📊, such as potholes and cracks. <br>The project uses sensors to gather data across 100 km 🛣️ of roads, and the insights are visualized using Pandas 🐼, NumPy 🔢, and Matplotlib 📈 for city planners to make data-driven decisions.<br>Repo: https://github.com/Anurag3703/autonom</h4>
+<p align="left">A Raspberry Pi-based solution using YOLO 🧠, MPU, and Python  to monitor road quality. <br>I created a custom dataset with 5,000+ annotated images  to detect road defects with 92% accuracy 📊, such as potholes and cracks. <br>The project uses sensors to gather data across 100 km 🛣️ of roads, and the insights are visualized using Pandas 🐼, NumPy 🔢, and Matplotlib 📈 for city planners to make data-driven decisions.<br>Repo: <a href="https://github.com/Anurag3703/autonom" target="_blank">autonom</a></p>
 
 ###
 
-<h2 align="left">🍕 Pizza Delivery Application for Pizza Point</h2>
+<h2 align="left"><a href="https://github.com/Anurag3703/pizzaPointFullStack" target="_blank">🍕 Pizza Delivery Application for Pizza Point</a></h2>
 
 ###
 
-<h4 align="left">I am currently developing a full-stack pizza delivery application 🍕 with Spring Boot, React , Stripe API.<br>This app is expected to handle 400+ daily orders 📦, improving order accuracy by 20% through automation.<br>It includes real-time order tracking 🕒, reducing customer support tickets by 25% 📉 and enhancing customer retention by 15% ❤️.<br>Repo: https://github.com/Anurag3703/pizzaPointFullStack</h4>
+<p align="left">I am currently developing a full-stack pizza delivery application 🍕 with Spring Boot, React , Stripe API.<br>This app is expected to handle 400+ daily orders 📦, improving order accuracy by 20% through automation.<br>It includes real-time order tracking 🕒, reducing customer support tickets by 25% 📉 and enhancing customer retention by 15% ❤️.<br>Repo: <a href="https://github.com/Anurag3703/pizzaPointFullStack" target="_blank">pizzaPointFullStack</a></p>
 
 ###
 
-<h2 align="left">🛡️ AI Scam Detection System</h2>
+<h2 align="left"><a href="https://github.com/Anurag3703/the_Archive" target="_blank">🛡️ AI Scam Detection System</a></h2>
 
 ###
 
-<h4 align="left">A startup idea 💡 focused on building a B2B solution for telecommunications companies 📱 to detect and prevent fraudulent activities using AI  and machine learning 🧠. <br>Currently, we are collaborating with the Hungarian National Innovation Agency 🇭🇺 to develop a proof of concept.<br> This project is focused on providing scalable and secure 🔒 solutions to telecom providers, reducing financial losses 💸 and improving customer security 🔐.<br> The system will be multilingual 🌐, allowing telecom companies worldwide to use it without language barriers.<br>Repo: https://github.com/Anurag3703/the_Archive</h4>
+<p align="left">A startup idea 💡 focused on building a B2B solution for telecommunications companies 📱 to detect and prevent fraudulent activities using AI  and machine learning 🧠. <br>Currently, we are collaborating with the Hungarian National Innovation Agency 🇭🇺 to develop a proof of concept.<br> This project is focused on providing scalable and secure 🔒 solutions to telecom providers, reducing financial losses 💸 and improving customer security 🔐.<br> The system will be multilingual 🌐, allowing telecom companies worldwide to use it without language barriers.<br>Repo: <a href="https://github.com/Anurag3703/the_Archive" target="_blank">the_Archive</a></p>
 
 ###
 
@@ -77,7 +74,7 @@
 
 ###
 
-<h4 align="left">I gained foundational knowledge of cloud services ☁️ on Microsoft Azure 🔵, learning about core services 🔧, pricing models 💰, cloud security 🔒, and resource optimization 📈. <br>This certification has equipped me to effectively implement cloud solutions 🌎 and manage lifecycle and pricing for scalable applications.</h4>
+<p align="left">I gained foundational knowledge of cloud services ☁️ on Microsoft Azure 🔵, learning about core services 🔧, pricing models 💰, cloud security 🔒, and resource optimization 📈. <br>This certification has equipped me to effectively implement cloud solutions 🌎 and manage lifecycle and pricing for scalable applications.</p>
 
 ###
 
@@ -85,7 +82,7 @@
 
 ###
 
-<h4 align="left">I gained hands-on experience in Unity game development 🕹️, mastering core game design principles 🧩, scripting in C# ⚙️, and optimizing performance for smooth gameplay 🎯.<br>This certification has equipped me with the skills to develop interactive 2D and 3D games, as well as augmented reality (AR) and virtual reality (VR) experiences.</h4>
+<p align="left">I gained hands-on experience in Unity game development 🕹️, mastering core game design principles 🧩, scripting in C# ⚙️, and optimizing performance for smooth gameplay 🎯.<br>This certification has equipped me with the skills to develop interactive 2D and 3D games, as well as augmented reality (AR) and virtual reality (VR) experiences.</p>
 
 ###
 
@@ -93,7 +90,7 @@
 
 ###
 
-<h4 align="left">Completed the Hungarian Startup Program 🚀, collaborating with innovative minds to accelerate entrepreneurial ventures in Hungary 🌍.<br>This program helped me hone my skills in startup strategies, business development, and navigating the Hungarian innovation ecosystem.</h4>
+<p align="left">Completed the Hungarian Startup Program 🚀, collaborating with innovative minds to accelerate entrepreneurial ventures in Hungary 🌍.<br>This program helped me hone my skills in startup strategies, business development, and navigating the Hungarian innovation ecosystem.</p>
 
 ###
 
@@ -174,5 +171,3 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
 </div>
-
-###
