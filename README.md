@@ -15,7 +15,6 @@
 
 ###
 
-
 ###
 
 <h1 align="left">🚀 Projects</h1>
@@ -32,7 +31,11 @@
 
 ###
 
-<p align="left">A Teacher Room Booking System built with Spring Boot 🖥️, React ⚛️, RESTful APIs 🌐, and MySQL . <br>I led a team of 4 developers, improving resource allocation efficiency by 40% and handling 50+ bookings per week 📅. Designed a scalable backend with Spring JPA and a normalized database to ensure efficient query response times under 200ms. <br>You can explore the code and see how we ensured 90% code coverage ✅ and 95% bug resolution 🐛.</p>
+<p align="left">A Teacher Room Booking System built with Spring Boot 🖥️, React ⚛️, RESTful APIs 🌐, and MySQL.<br>  
+  - Led a team of 4 developers, improving resource allocation efficiency by 40%.  
+  - Handled 50+ bookings per week 📅.  
+  - Designed a scalable backend with Spring JPA and a normalized database to ensure efficient query response times under 200ms.  
+  - Ensured 90% code coverage ✅ and 95% bug resolution 🐛.</p>
 
 ###
 
@@ -40,7 +43,10 @@
 
 ###
 
-<p align="left">A Raspberry Pi-based solution using YOLO 🧠, MPU, and Python  to monitor road quality. <br>I created a custom dataset with 5,000+ annotated images  to detect road defects with 92% accuracy 📊, such as potholes and cracks. <br>The project uses sensors to gather data across 100 km 🛣️ of roads, and the insights are visualized using Pandas 🐼, NumPy 🔢, and Matplotlib 📈 for city planners to make data-driven decisions.</p>
+<p align="left">A Raspberry Pi-based solution using YOLO 🧠, MPU, and Python to monitor road quality.<br>  
+  - Created a custom dataset with 5,000+ annotated images to detect road defects with 92% accuracy 📊.  
+  - The project uses sensors to gather data across 100 km 🛣️ of roads.  
+  - Insights are visualized using Pandas 🐼, NumPy 🔢, and Matplotlib 📈 for city planners.</p>
 
 ###
 
@@ -48,7 +54,10 @@
 
 ###
 
-<p align="left">I am currently developing a full-stack pizza delivery application 🍕 with Spring Boot, React , Stripe API.<br>This app is expected to handle 400+ daily orders 📦, improving order accuracy by 20% through automation.<br>It includes real-time order tracking 🕒, reducing customer support tickets by 25% 📉 and enhancing customer retention by 15% ❤️.</p>
+<p align="left">A full-stack pizza delivery application 🍕 with Spring Boot, React, and Stripe API.<br>  
+  - Expected to handle 400+ daily orders 📦.  
+  - Improving order accuracy by 20% through automation.  
+  - Includes real-time order tracking 🕒, reducing customer support tickets by 25% 📉 and enhancing customer retention by 15% ❤️.</p>
 
 ###
 
@@ -56,7 +65,10 @@
 
 ###
 
-<p align="left">A startup idea 💡 focused on building a B2B solution for telecommunications companies 📱 to detect and prevent fraudulent activities using AI  and machine learning 🧠. <br>Currently, we are collaborating with the Hungarian National Innovation Agency 🇭🇺 to develop a proof of concept.<br> This project is focused on providing scalable and secure 🔒 solutions to telecom providers, reducing financial losses 💸 and improving customer security 🔐.<br> The system will be multilingual 🌐, allowing telecom companies worldwide to use it without language barriers.</p>
+<p align="left">An AI-powered Scam Detection System in collaboration with the Hungarian National Innovation Agency 🇭🇺.<br>  
+  - Focused on detecting and preventing fraudulent activities in telecommunications.  
+  - Multilingual system to cater to telecom companies worldwide 🌐.  
+  - Aimed at reducing financial losses 💸 and improving customer security 🔐.</p>
 
 ###
 
@@ -74,7 +86,10 @@
 
 ###
 
-<p align="left">I gained foundational knowledge of cloud services ☁️ on Microsoft Azure 🔵, learning about core services 🔧, pricing models 💰, cloud security 🔒, and resource optimization 📈. <br>This certification has equipped me to effectively implement cloud solutions 🌎 and manage lifecycle and pricing for scalable applications.</p>
+<p align="left">  
+  - Gained foundational knowledge of cloud services ☁️ on Microsoft Azure 🔵.  
+  - Learned about core services 🔧, pricing models 💰, cloud security 🔒, and resource optimization 📈.
+</p>
 
 ###
 
@@ -82,7 +97,10 @@
 
 ###
 
-<p align="left">I gained hands-on experience in Unity game development 🕹️, mastering core game design principles 🧩, scripting in C# ⚙️, and optimizing performance for smooth gameplay 🎯.<br>This certification has equipped me with the skills to develop interactive 2D and 3D games, as well as augmented reality (AR) and virtual reality (VR) experiences.</p>
+<p align="left">  
+  - Hands-on experience in Unity game development 🕹️.  
+  - Mastered core game design principles 🧩, scripting in C# ⚙️, and optimizing performance for smooth gameplay 🎯.  
+</p>
 
 ###
 
@@ -90,7 +108,10 @@
 
 ###
 
-<p align="left">Completed the Hungarian Startup Program 🚀, collaborating with innovative minds to accelerate entrepreneurial ventures in Hungary 🌍.<br>This program helped me hone my skills in startup strategies, business development, and navigating the Hungarian innovation ecosystem.</p>
+<p align="left">  
+  - Completed the Hungarian Startup Program 🚀.  
+  - Gained skills in startup strategies, business development, and navigating the Hungarian innovation ecosystem 🌍.  
+</p>
 
 ###
 
