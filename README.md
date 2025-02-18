@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">A Teacher Room Booking System built with Spring Boot 🖥️, React ⚛️, RESTful APIs 🌐, and MySQL . <br>I led a team of 4 developers, improving resource allocation efficiency by 40% and handling 50+ bookings per week 📅. Designed a scalable backend with Spring JPA and a normalized database to ensure efficient query response times under 200ms. <br>You can explore the code and see how we ensured 90% code coverage ✅ and 95% bug resolution 🐛.<br>Repo: <a href="https://github.com/abrarzihan1/room-selection-app" target="_blank">room-selection-app</a></p>
+<p align="left">A Teacher Room Booking System built with Spring Boot 🖥️, React ⚛️, RESTful APIs 🌐, and MySQL . <br>I led a team of 4 developers, improving resource allocation efficiency by 40% and handling 50+ bookings per week 📅. Designed a scalable backend with Spring JPA and a normalized database to ensure efficient query response times under 200ms. <br>You can explore the code and see how we ensured 90% code coverage ✅ and 95% bug resolution 🐛.</p>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">A Raspberry Pi-based solution using YOLO 🧠, MPU, and Python  to monitor road quality. <br>I created a custom dataset with 5,000+ annotated images  to detect road defects with 92% accuracy 📊, such as potholes and cracks. <br>The project uses sensors to gather data across 100 km 🛣️ of roads, and the insights are visualized using Pandas 🐼, NumPy 🔢, and Matplotlib 📈 for city planners to make data-driven decisions.<br>Repo: <a href="https://github.com/Anurag3703/autonom" target="_blank">autonom</a></p>
+<p align="left">A Raspberry Pi-based solution using YOLO 🧠, MPU, and Python  to monitor road quality. <br>I created a custom dataset with 5,000+ annotated images  to detect road defects with 92% accuracy 📊, such as potholes and cracks. <br>The project uses sensors to gather data across 100 km 🛣️ of roads, and the insights are visualized using Pandas 🐼, NumPy 🔢, and Matplotlib 📈 for city planners to make data-driven decisions.</p>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<p align="left">I am currently developing a full-stack pizza delivery application 🍕 with Spring Boot, React , Stripe API.<br>This app is expected to handle 400+ daily orders 📦, improving order accuracy by 20% through automation.<br>It includes real-time order tracking 🕒, reducing customer support tickets by 25% 📉 and enhancing customer retention by 15% ❤️.<br>Repo: <a href="https://github.com/Anurag3703/pizzaPointFullStack" target="_blank">pizzaPointFullStack</a></p>
+<p align="left">I am currently developing a full-stack pizza delivery application 🍕 with Spring Boot, React , Stripe API.<br>This app is expected to handle 400+ daily orders 📦, improving order accuracy by 20% through automation.<br>It includes real-time order tracking 🕒, reducing customer support tickets by 25% 📉 and enhancing customer retention by 15% ❤️.</p>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<p align="left">A startup idea 💡 focused on building a B2B solution for telecommunications companies 📱 to detect and prevent fraudulent activities using AI  and machine learning 🧠. <br>Currently, we are collaborating with the Hungarian National Innovation Agency 🇭🇺 to develop a proof of concept.<br> This project is focused on providing scalable and secure 🔒 solutions to telecom providers, reducing financial losses 💸 and improving customer security 🔐.<br> The system will be multilingual 🌐, allowing telecom companies worldwide to use it without language barriers.<br>Repo: <a href="https://github.com/Anurag3703/the_Archive" target="_blank">the_Archive</a></p>
+<p align="left">A startup idea 💡 focused on building a B2B solution for telecommunications companies 📱 to detect and prevent fraudulent activities using AI  and machine learning 🧠. <br>Currently, we are collaborating with the Hungarian National Innovation Agency 🇭🇺 to develop a proof of concept.<br> This project is focused on providing scalable and secure 🔒 solutions to telecom providers, reducing financial losses 💸 and improving customer security 🔐.<br> The system will be multilingual 🌐, allowing telecom companies worldwide to use it without language barriers.</p>
 
 ###
 
