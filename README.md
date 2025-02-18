@@ -70,7 +70,7 @@
 
 ###
 
-<h2 align="left">🌥️ Microsoft Azure AZ-900 Certification</h2>
+<h2 align="left"><a href="https://learn.microsoft.com/en-us/certifications/azure-fundamentals/" target="_blank">🌥️ Microsoft Azure AZ-900 Certification</a></h2>
 
 ###
 
@@ -78,7 +78,7 @@
 
 ###
 
-<h2 align="left">🎮 Unity Certified Programmer</h2>
+<h2 align="left"><a href="https://learn.unity.com/certification/unity-certified-programmer" target="_blank">🎮 Unity Certified Programmer</a></h2>
 
 ###
 
@@ -86,7 +86,7 @@
 
 ###
 
-<h2 align="left">🇭🇺 Hungarian Startup Program</h2>
+<h2 align="left"><a href="https://startuphungary.hu/startup-program/" target="_blank">🇭🇺 Hungarian Startup Program</a></h2>
 
 ###
 
