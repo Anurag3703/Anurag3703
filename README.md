@@ -82,7 +82,7 @@
 
 ###
 
-<h2 align="left"><a href="https://learn.microsoft.com/en-us/certifications/azure-fundamentals/" target="_blank">🌥️ Microsoft Azure AZ-900 Certification</a></h2>
+<h2 align="left"><a href="https://drive.google.com/file/d/1OUJxrOfr9l80OcC98qNCCPmOfJCi9iTP/view?usp=sharing" target="_blank">🌥️ Microsoft Azure AZ-900 Certification</a></h2>
 
 ###
 
