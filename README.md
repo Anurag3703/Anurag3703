@@ -23,7 +23,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc391040-035a-4877-b070-7b4fb27b38af_480x270.gif"  />
+  <img height="300" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc391040-035a-4877-b070-7b4fb27b38af_480x270.gif"  />
 </div>
 
 ###
@@ -65,7 +65,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://github.com/Anurag3703/Anurag3703/blob/main/tenor.gif"  />
+  <img height="300" src="https://github.com/Anurag3703/Anurag3703/blob/main/tenor.gif"  />
 </div>
 
 ###
