@@ -192,3 +192,10 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
 </div>
+
+###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Anurag3703/count.svg?"  />
+</div>
+
+
