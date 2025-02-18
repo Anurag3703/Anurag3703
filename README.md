@@ -93,7 +93,7 @@
 
 ###
 
-<h2 align="left"><a href="https://learn.unity.com/certification/unity-certified-programmer" target="_blank">🎮 Unity Certified Programmer</a></h2>
+<h2 align="left"><a href="https://drive.google.com/file/d/14Uon5I2c8nmT7T6UpF6rb13UjJimO8hw/view?usp=sharing" target="_blank">🎮 Unity Certified Programmer</a></h2>
 
 ###
 
@@ -104,7 +104,7 @@
 
 ###
 
-<h2 align="left"><a href="https://startuphungary.hu/startup-program/" target="_blank">🇭🇺 Hungarian Startup Program</a></h2>
+<h2 align="left"><a href="https://drive.google.com/file/d/1d3IlQXmhIXM35CE4CwKkTL8Mxs4r3zg7/view?usp=sharing" target="_blank">🇭🇺 Hungarian Startup Program</a></h2>
 
 ###
 
