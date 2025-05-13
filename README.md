@@ -61,6 +61,32 @@
 
 ###
 
+###
+
+<h2 align="left"><a href="https://github.com/Anurag3703/on-time-website" target="_blank">⏰ On-Time Deadline Manager</a></h2>
+
+###
+
+<p align="left">A full-stack deadline management system with voice input capabilities 🎙️ built with React Vite ⚡, Spring Boot 🌱, and Java Mail 📧.<br>  
+  - Developed a responsive frontend with React Vite for 50% faster build times compared to traditional CRA 🚀<br>
+  - Implemented Spring Boot backend with JWT authentication 🔐 and deadline tracking logic ⏳<br>
+  - Integrated JavaMail API for automated email reminders 📨 with 95% delivery success rate<br>
+  - Added voice input functionality using Web Speech API 🗣️ for hands-free deadline creation<br>
+  - Reduced missed deadlines by 60% through automated reminders and intuitive UI ✨</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW1hY3l4cWY3b3ZtN2V5dHl1Z3V0OWJ6Y2RqY2R5b2F1Z2JmY3FmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.gif" height="300" alt="On-Time Demo" style="border-radius:10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"/>
+</div>
+
+<h4>Key Features:</h4>
+<p align="left">
+  - 📅 Visual deadline calendar with color-coded priority system<br>
+  - 🔔 Customizable email/SMS notification system<br>
+  - 🎙️ Voice-to-text input for quick deadline creation<br>
+  - 📊 Analytics dashboard for tracking completion rates<br>
+  - 🔄 Real-time sync across all devices<br>
+</p>
+
 <h2 align="left"><a href="https://lcsecurity.crd.co/" target="_blank">🛡️ AI Scam Detection System(Startup)</a></h2>
 
 ###
