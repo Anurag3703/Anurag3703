@@ -55,9 +55,9 @@
 ###
 
 <p align="left">A full-stack pizza delivery application 🍕 with Spring Boot, React, and Stripe API.<br>  
-  - Expected to handle 400+ daily orders 📦.  <br>
-  - Improving order accuracy by 20% through automation.  <br>
-  - Includes real-time order tracking 🕒, reducing customer support tickets by 25% 📉 and enhancing customer retention by 15% ❤️.</p>
+  - Expected to handle 300+ daily orders 📦.  <br>
+  - Improving order accuracy by 75% through automation.  <br>
+  - Includes real-time order tracking 🕒, reducing customer support tickets by 25% 📉 and enhancing customer retention by 50% ❤️.</p>
 
 ###
 
@@ -66,9 +66,14 @@
 ###
 
 <p align="left">An AI-powered Scam Detection System in collaboration with the Hungarian National Innovation Agency 🇭🇺.<br>  
-  - Focused on detecting and preventing fraudulent activities in telecommunications.  <br>
-  - Multilingual system to cater to telecom companies worldwide 🌐.  <br>
-  - Aimed at reducing financial losses 💸 and improving customer security 🔐.</p>
+  - AI-powered scam detection platform leveraging \textbf{BERT-uncased} with \textbf{99.42\% test} and \textbf{98.34\% validation accuracy} on a balanced 20K spam/ham dataset.  <br>
+  - Quantized and hosted the model on \textbf{Hugging Face}, deploying via \textbf{FastAPI/Flask} endpoints handling \textbf{RPM} with 200ms latency, optimized for lightweight environments.  <br>
+  - Driving €50,000 funding proposal from the \textbf{Hungarian Innovation Agency} for next-stage R\&D, focusing on real-time NLP and cross-platform integration..</p>
+   <h3>Demo Video</h3>
+  <a href="https://youtu.be/hKWYecotBgA?feature=shared">
+    <img src="https://img.youtube.com/vi/hKWYecotBgA/maxresdefault.jpg" alt="Video Thumbnail" style="width:300px;">
+  </a>
+</p>
 
 ###
 
