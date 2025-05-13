@@ -61,12 +61,12 @@
 
 ###
 
-<h2 align="left"><a href="https://github.com/Anurag3703/the_Archive" target="_blank">🛡️ AI Scam Detection System(Startup)</a></h2>
+<h2 align="left"><a href="https://lcsecurity.crd.co/" target="_blank">🛡️ AI Scam Detection System(Startup)</a></h2>
 
 ###
 
 <p align="left">An AI-powered Scam Detection System in collaboration with the Hungarian National Innovation Agency 🇭🇺.<br>  
-  - AI-powered scam detection platform leveraging BERT-uncased with 99.42% test and 98.34% validation accuracy on a balanced 20K spam/ham dataset.  <br>
+  - AI-powered scam detection platform leveraging BERT-uncased with 99.42% test and 98.34% validation accuracy on a balanced 100K spam/ham dataset and 800k fraudent Websites.  <br>
   - Quantized and hosted the model on Hugging Face, deploying via FastAPI/Flask endpoints handling RPM with 200ms latency, optimized for lightweight environments.  <br>
   - Driving €50,000 funding proposal from the Hungarian Innovation Agency for next-stage R\&D, focusing on real-time NLP and cross-platform integration..</p>
   <div align="center">
