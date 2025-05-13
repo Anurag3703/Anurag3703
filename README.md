@@ -62,7 +62,7 @@
 
 <h2 align="left">
   <a href="https://github.com/Anurag3703/pizzaPointFullStack" target="_blank">🍕 Pizza Point kft</a> 
-  | <a href="https://pizzapoint-live-demo.com" target="_blank">🌐 Live Demo</a>
+  | <a href="https://pizza-point-k53k.vercel.app/" target="_blank">🌐 Live Demo</a>
 </h2>
 
 ###
