@@ -48,9 +48,17 @@
   - The project uses sensors to gather data across 100 km 🛣️ of roads.  <br>
   - Insights are visualized using Pandas 🐼, NumPy 🔢, and Matplotlib 📈 for city planners.</p>
 
+
+   <p align="center">
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/sXnbhQBc/1-3-Ng-Ap-Xr-IWkg-Rj-KKFc6f-O0-A.webp' border='0' alt='1-3-Ng-Ap-Xr-IWkg-Rj-KKFc6f-O0-A'/></a><br /><a href='https://postimages.org/'></a><br />
+</p>
+
 ###
 
-<h2 align="left"><a href="https://github.com/Anurag3703/pizzaPointFullStack" target="_blank">🍕 Pizza Delivery Application for Pizza Point</a></h2>
+<h2 align="left">
+  <a href="https://github.com/Anurag3703/pizzaPointFullStack" target="_blank">🍕 Pizza Point kft</a> 
+  | <a href="https://pizzapoint-live-demo.com" target="_blank">🌐 Live Demo</a>
+</h2>
 
 ###
 
@@ -58,12 +66,48 @@
   - Expected to handle 300+ daily orders 📦.  <br>
   - Improving order accuracy by 75% through automation.  <br>
   - Includes real-time order tracking 🕒, reducing customer support tickets by 25% 📉 and enhancing customer retention by 50% ❤️.</p>
+  <div align="center">
+  <img 
 
-###
+  <p align="center">
+  <img src="https://media-hosting.imagekit.io/8a6869f32cc747a1/friends-joey-tribbiani.gif?Expires=1841712193&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MSHtTr~1dRuKNXxqaA7UKOh-~wCwMYnMXNlJXQXXCOAJWNEUkHw~O8Wk8a52rPx~BUSSwZUcHKSqO4pgnknQBA5SAxErt7xJO88M20EGoVCm~HlX0BSfYbHvyWXSDa61sHbHZR-RevNVK2~Q~2oInrR3GKCRknPnu0VyYb5nSewM4Ld3obwxDXSM0DOHwsNif3ERlNmKkAZZcr7zV8X4JzhT~o0xIvIbsI5sTLkSIuAr7k9CffSXpoPGoMlm-GCBhQPrN4F1yEw-mAcXNUV-YgtEApaj1tnYyvggrqSONJ5BepH3y3qKk1Caeg6TZRzLZo1Ky9l7VDUpNUUf-WHYQA__" alt="friends-joey-tribbiani.gif" height="220"/>
+</p>
 
-###
 
-<h2 align="left"><a href="https://on-time-frontend.vercel.app/" target="_blank">⏰ On-Time </a></h2>
+
+<h2>Key Technical Features:</h2>
+<p align="left">
+  - 🔐 Stateless JWT Authentication - Scalable token-based authentication<br>
+  - 🏗️ Layered Architecture - Clear separation (Controller → Service → Repository) with DDD (Domain-Driven Design) principles<br>
+  - 🛰️ WebSocket Integration - Real-time order tracking and kitchen display system updates<br>
+  - 📱 Firebase Mobile Auth - OTP verification with Firebase + custom email confirmation flows<br>
+  - 💳 Stripe/Revolut API - PCI-DSS compliant payments with 15+ currency supports and Webhook Configurations<br>
+  - 🧹 Clean Codebase - SOLID principles<br>
+  - ⏲️ Spring Batch Scheduling - Automated Database Query and optimzation<br>
+  - 🗄️ <b>PostgreSQL Database</b> - All data is securely stored and managed using PostgreSQL, ensuring reliability and advanced querying.<br>
+  - 🛠️ <b>Flyway Migrations</b> - Database schema changes are version-controlled and automated with Flyway for seamless deployments.<br>
+</p>
+
+
+<h2 align="left">
+  ⏰ <a href="https://on-time-frontend.vercel.app/" target="_blank" style="text-decoration: none; color: #333;">On-Time</a>
+  |
+  <a href="https://on-time-frontend.vercel.app/" target="_blank" style="
+    background: linear-gradient(135deg, #6e8efb, #a777e3);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 30px;
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    display: inline-block;
+  " onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.3)';"
+     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 15px rgba(0,0,0,0.2)';">
+    🚀 Open Live Demo
+  </a>
+</h2>
 
 ###
 
@@ -78,7 +122,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW1hY3l4cWY3b3ZtN2V5dHl1Z3V0OWJ6Y2RqY2R5b2F1Z2JmY3FmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.gif" height="300" alt="On-Time Demo" style="border-radius:10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"/>
 </div>
 
-<h4>Key Features:</h4>
+<h2>Key Features:</h2>
 <p align="left">
   - 📅 Visual deadline calendar with color-coded priority system<br>
   - 🔔 Customizable email/SMS notification system<br>
@@ -87,7 +131,28 @@
   - 🔄 Real-time sync across all devices<br>
 </p>
 
-<h2 align="left"><a href="https://lcsecurity.crd.co/" target="_blank">🛡️ AI Scam Detection System(Startup)</a></h2>
+<h2 align="left">
+  🛡️ <a href="https://lcsecurity.crd.co/" target="_blank" style="text-decoration: none; color: #333;">AI Scam Detection System (Startup)</a>
+</h2>
+
+<a href="https://lcsecurity.crd.co/" target="_blank" style="
+  display: inline-block;
+  margin: 10px 0 20px 0;
+  padding: 12px 24px;
+  background: linear-gradient(135deg, #ff416c, #ff4b2b);
+  color: white;
+  font-weight: 600;
+  font-size: 16px;
+  align:left;
+  text-decoration: none;
+  border-radius: 50px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease;
+" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.3)';"
+   onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 15px rgba(0,0,0,0.2)';">
+  🌐 Visit Our Landing Page
+</a>
+
 
 ###
 
