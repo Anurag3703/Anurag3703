@@ -66,13 +66,16 @@
 ###
 
 <p align="left">An AI-powered Scam Detection System in collaboration with the Hungarian National Innovation Agency 🇭🇺.<br>  
-  - AI-powered scam detection platform leveraging \textbf{BERT-uncased} with \textbf{99.42\% test} and \textbf{98.34\% validation accuracy} on a balanced 20K spam/ham dataset.  <br>
-  - Quantized and hosted the model on \textbf{Hugging Face}, deploying via \textbf{FastAPI/Flask} endpoints handling \textbf{RPM} with 200ms latency, optimized for lightweight environments.  <br>
-  - Driving €50,000 funding proposal from the \textbf{Hungarian Innovation Agency} for next-stage R\&D, focusing on real-time NLP and cross-platform integration..</p>
-   <h3>Demo Video</h3>
-  <a href="https://youtu.be/hKWYecotBgA?feature=shared">
-    <img src="https://img.youtube.com/vi/hKWYecotBgA/maxresdefault.jpg" alt="Video Thumbnail" style="width:300px;">
+  - AI-powered scam detection platform leveraging BERT-uncased with 99.42% test and 98.34% validation accuracy on a balanced 20K spam/ham dataset.  <br>
+  - Quantized and hosted the model on Hugging Face, deploying via FastAPI/Flask endpoints handling RPM with 200ms latency, optimized for lightweight environments.  <br>
+  - Driving €50,000 funding proposal from the Hungarian Innovation Agency for next-stage R\&D, focusing on real-time NLP and cross-platform integration..</p>
+  <div align="center">
+  <h1>🎥 Video Demonstration</h1>
+  
+  <a href="https://youtu.be/hKWYecotBgA" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.youtube.com/vi/hKWYecotBgA/maxresdefault.jpg" alt="Demo Video" style="width:80%; max-width:800px; border-radius:10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
   </a>
+</div>
 </p>
 
 ###
