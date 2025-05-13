@@ -36,6 +36,11 @@
   - Handled 50+ bookings per week 📅.  <br>
   - Designed a scalable backend with Spring JPA and a normalized database to ensure efficient query response times under 200ms.  <br>
   - Ensured 90% code coverage ✅ and 95% bug resolution 🐛.</p>
+  
+  <p align="center">
+  <a href='https://postimg.cc/BPx4v44t' target='_blank'><img src='https://i.postimg.cc/2yt62Std/393876104-3e44641c-e5b6-4a84-99d6-ed90d8783c26.jpg' border='0' alt='393876104-3e44641c-e5b6-4a84-99d6-ed90d8783c26'/></a><br/>
+</p>
+
 
 ###
 
