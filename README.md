@@ -61,8 +61,8 @@
 ###
 
 <h2 align="left">
-  <a href="https://github.com/Anurag3703/pizzaPointFullStack" target="_blank">🍕 Pizza Point kft</a> 
-  | <a href="https://pizza-point-k53k.vercel.app/" target="_blank">🌐 Live Demo</a>
+  <a href="https://github.com/Anurag3703/pizzaPointFullStack" target="_blank">🍕 Pizza Point kft(Enterprise Software)</a> 
+  | <a href="https://pizzapoint.hu/" target="_blank">🌐 Live Demo</a>
 </h2>
 
 ###
@@ -75,7 +75,7 @@
   <img 
 
   <p align="center">
-  <img src="https://media-hosting.imagekit.io/8a6869f32cc747a1/friends-joey-tribbiani.gif?Expires=1841712193&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=MSHtTr~1dRuKNXxqaA7UKOh-~wCwMYnMXNlJXQXXCOAJWNEUkHw~O8Wk8a52rPx~BUSSwZUcHKSqO4pgnknQBA5SAxErt7xJO88M20EGoVCm~HlX0BSfYbHvyWXSDa61sHbHZR-RevNVK2~Q~2oInrR3GKCRknPnu0VyYb5nSewM4Ld3obwxDXSM0DOHwsNif3ERlNmKkAZZcr7zV8X4JzhT~o0xIvIbsI5sTLkSIuAr7k9CffSXpoPGoMlm-GCBhQPrN4F1yEw-mAcXNUV-YgtEApaj1tnYyvggrqSONJ5BepH3y3qKk1Caeg6TZRzLZo1Ky9l7VDUpNUUf-WHYQA__" alt="friends-joey-tribbiani.gif" height="220"/>
+  <img src="https://i.ibb.co/mC8b0B33/joey-pizza.gif" alt="friends-joey-tribbiani.gif" height="300"/>
 </p>
 
 
