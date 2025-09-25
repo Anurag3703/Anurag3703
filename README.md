@@ -137,7 +137,7 @@
 </p>
 
 <h2 align="left">
-  🛡️ <a href="https://lcsecurity.crd.co/" target="_blank" style="text-decoration: none; color: #333;">AI Scam Detection System (Startup)</a>
+  🛡️ <a href="https://lcsecurity.ai/" target="_blank" style="text-decoration: none; color: #333;">AI Scam Detection System (Startup)</a>
 </h2>
 
 <a href="https://lcsecurity.crd.co/" target="_blank" style="
